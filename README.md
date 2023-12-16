@@ -65,3 +65,8 @@ void loop() {
 
 ## Instalar la libreria de Cristal líquido I2C.
 ### Seleccionar pestaña de Librery Manager --> Add a New library -Colocamos el nombre de libreria
+
+![image](https://github.com/ErickRomeroRamos/PRACTICA-3-SENSOR-DHT-22-CON-LCD/assets/153964793/abc69382-3623-47ff-b55b-a8574b801b58)
+
+## Realizar la conexion de DHT22 con la ESP32 y de la LCD de la siguiente manera
+
