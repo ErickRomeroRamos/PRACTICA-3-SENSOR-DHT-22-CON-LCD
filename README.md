@@ -81,3 +81,5 @@ Colocar la temperatura y humedad dando doble click al sensor DHT22
 ## Resultados
 ### Una vez terminado iniciamos simulacion y se observaran los valores en la lcd.
 
+![image](https://github.com/ErickRomeroRamos/PRACTICA-3-SENSOR-DHT-22-CON-LCD/assets/153964793/6bba42d5-83d5-4034-b645-0eaf64550c46)
+
