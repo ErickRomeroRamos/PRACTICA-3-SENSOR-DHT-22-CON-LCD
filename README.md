@@ -70,3 +70,14 @@ void loop() {
 
 ## Realizar la conexion de DHT22 con la ESP32 y de la LCD de la siguiente manera
 
+![image](https://github.com/ErickRomeroRamos/PRACTICA-3-SENSOR-DHT-22-CON-LCD/assets/153964793/94e0e208-e290-4709-8b6a-ca0b1f30d18f)
+
+Conexion lcd -GND -VCC -SDA --> esp:21 -SCL --> esp:22
+
+## Instrucciónes de operación
+### Iniciar simulador.
+Visualizar los datos en el monitor serial y en la lcd .
+Colocar la temperatura y humedad dando doble click al sensor DHT22
+## Resultados
+### Una vez terminado iniciamos simulacion y se observaran los valores en la lcd.
+
